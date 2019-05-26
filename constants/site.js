@@ -1,0 +1,8 @@
+export const url = 'https://ruby.surge.sh'
+export const title = 'Ruby 中文社区 • 💎 💖 🇨🇳'
+export const copyright = 'Copyright © 2018 • Ruby 中文社区 • 💎 💖 🇨🇳'
+export const originUrl = 'https://ruby-china.org'
+export const githubUrl = 'https://github.com/ruby-china'
+export const twitterUrl = 'https://twitter.com/ruby_china'
+export const youtubeUrl = 'https://www.youtube.com/channel/UCOLKFS_uA7nX26_u8z9V9og/feed'
+export const apiDocumentUrl = 'https://www.yuque.com/ruby-china/api/getting-started'

@@ -1,0 +1,25 @@
+.dimmer.active .dimmer-content {
+  opacity: 0.5;
+}
+
+.header .header-toggler {
+  display: none;
+}
+
+.ant-pagination-item {
+  border-radius: 3px;
+}
+
+.ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination-next .ant-pagination-item-link {
+  border-radius: 3px;
+}
+
+img.twemoji {
+  width: auto;
+  height: 1rem;
+}
+
+blockquote {
+  font-style: normal;
+}
